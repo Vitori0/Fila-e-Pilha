@@ -100,7 +100,7 @@ Fila *criaFila() {
         f->tamanho = 0;
         return f;
     }
-    printf ("\nO programa nao pode ser executado por falta de mem�ria :(\n\n");
+    printf ("\nO programa nao pode ser executado por falta de memória :(\n\n");
     exit(1);
 }
 
@@ -293,3 +293,4 @@ int main() {
         limpartela();
     }
 }
+//Código muito bom, muito bem organizado e entrega um bom entendimento!
